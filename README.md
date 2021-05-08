@@ -1,5 +1,7 @@
 # STRAD
+## Model File
 
+Mawilab_SAE_CEN.ipynb is the program OF STRAD model on the dataset Mawilab.
 ## Environment
 
 - System：win10
@@ -44,6 +46,3 @@
 - trainer 
 
  
-## Model File
-
-Mawilab_SAE_CEN.ipynb is the program OF STRAD model on the dataset Mawilab.
