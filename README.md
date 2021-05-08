@@ -3,6 +3,8 @@
 
 Mawilab_STRAD.ipynb is the program OF STRAD model on the dataset Mawilab.
 
+The Mawilab dataset file is in the STRAD/data folder, change your path when you run the code.
+
 ## Environment
 
 - System：win10
