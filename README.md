@@ -15,6 +15,8 @@
 
 - Anaconda Download Link：https://www.anaconda.com/
 
+You can run the code on ***jupyter notebook***.
+
 ## Packages
 
 - gensim 4.0.1
