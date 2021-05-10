@@ -5,7 +5,7 @@
 
 - ***The Mawilab dataset(STRAD/data.zip)*** file is in the STRAD/data folder, change your path when you run the code.
 
-***You can only focus on the above two!!!***
+***You can only focus on the above two.***
 
 ## Environment
 
