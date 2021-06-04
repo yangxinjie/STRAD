@@ -26,12 +26,11 @@ def _data_loader(corpus,batch_size):
     
     def func(x):
         return [[x[0],x[1]],[x[0],x[2]],[x[0],x[3]],[x[2],x[1]],[x[3],x[1]]]
-     
     def flatten(nested_list):
         return [e for inner_list in nested_list for e in inner_list]
     
     
-    l = [print(x) for x in tqdm(corpus)]
+    l = [func(x) for x in tqdm(corpus)]
     del corpus
     return l
     #l = pd.DataFrame(flatten(l)).to_numpy()
