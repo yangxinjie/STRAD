@@ -1,7 +1,7 @@
 # STRAD
 ##  Model File
 
-- ***Mawilab_STRAD.ipynb (STRAD/Mawilab_STRAD.ipynb)*** is the program OF STRAD model on the dataset Mawilab.
+- ***Mawilab_STRAD0.ipynb (STRAD/Mawilab_STRAD0.ipynb)*** is the program OF STRAD model on the dataset Mawilab.
 
 - ***The Mawilab dataset(STRAD/data.zip)*** file is in the STRAD/data folder, change your path when you run the code.
 
